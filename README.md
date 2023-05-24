@@ -50,3 +50,5 @@ If you're interested in contributing to the CNC Plotter project, you're welcome 
 ## Acknowledgements
 
 We would like to express our gratitude to the open-source community for their contributions and support in making the CNC Plotter project possible.
+ 
+ ## Video: https://drive.google.com/file/d/1R50ZisCVp1Vmr11o_4Rr5Fxgz-yEifJW/view?usp=drive_link
